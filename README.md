@@ -6,11 +6,7 @@ The project was developed by 5 students that study at Democritus University of T
 
 # Development Tools
 
-**Microsoft Azure** \n
-https://azure.microsoft.com/en-us
-**Draw.io**
-https://draw.io/
-**Azure Pricing Calculator**
-https://azure.microsoft.com/en-us/pricing/calculator/
-**Azure Total Cost of Ownership (TCO) Calculator**
-https://azure.microsoft.com/en-us/pricing/tco/calculator/
+[**Microsoft Azure**](https://azure.microsoft.com/en-us)
+[**Draw.io**](https://draw.io/)
+[**Azure Pricing Calculator**](https://azure.microsoft.com/en-us/pricing/calculator/)
+[**Azure Total Cost of Ownership (TCO) Calculator**](https://azure.microsoft.com/en-us/pricing/tco/calculator/)
